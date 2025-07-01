@@ -1,0 +1,20 @@
+{
+  "name": "-personal-page",
+  "version": "1.0.0",
+  "description": "trang web viết riêng chỉ nhằm mục đích cá nhân , làm cv xin việc , ..",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NTDat-16/-personal-page.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NTDat-16/-personal-page/issues"
+  },
+  "homepage": "https://github.com/NTDat-16/-personal-page#readme",
+  "keywords": []
+}
